@@ -102,3 +102,14 @@ section,
 div.section {
   margin-bottom: 0px;
 }
+
+
+.solution-tile {
+  margin-bottom: 40px;
+}
+
+.container-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 15px;
+}

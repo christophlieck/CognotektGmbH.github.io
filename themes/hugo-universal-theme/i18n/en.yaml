@@ -75,3 +75,57 @@
 
 - id: awc
   translation: "Automating with Cognotekt [ übersetzung in englisch ]... geht weit über Big Data Technologien hinaus. Mit unseren Methoden lassen sich wissensbasierte, intelligente Geschäftsprozesse in operative Mathematik überführen. Und damit entscheidend verbessern: hinsichtlich Zeit, Kosten, Qualität, Performance. <br> Den digitalen Wandel unserer Kunden begleiten wir von der Machbarkeitsstudie bis zur Frontend-Schulung. Unser Software-as-a-Service-Angebot umfasst ein erfolgsorientiertes Lizenzmodell, das für Sie die Vorteile von Kostentransparenz, geringer IT-Komplexität und anwenderfreundlichem User Interface verbindet."
+
+- id: solutionsTitle
+  translation: "Solutions"
+
+- id: SuLI
+  translation: "Harm and Performancemanagement Insurance"
+
+- id: SuLI-sub
+  translation: "Process-Cost / Damage-Sum  reduction"
+
+- id: KyCmKI
+  translation: "Know your customer -with A.I."
+
+- id: KyCmKI-sub
+  translation: "Customer-Intelligence trough A.I.-reading des Web"
+
+- id: VI
+  translation: "Process-Control Insurance"
+
+- id: VI-sub
+  translation: "Optimized runtimes, Process-costs and Customer-orientation"
+
+- id: AI
+  translation: "Applicant-Management Insurance"
+
+- id: AI-sub
+  translation: "Prognostics of Insurance Costs and Risk development"
+
+- id: CE
+  translation: "Callcenter-expertsupport"
+
+- id: CE-sub
+  translation: "Maximised Service-Quality of complex customer questions"
+
+- id: Im
+  translation: "Collectionmanagement"
+
+- id: Im-sub
+  translation: "Process cost reduction &Maximizing the payment success"
+
+- id: WL
+  translation: "Other solutions"
+
+- id: WL-sub
+  translation: "Please feel free to contact us."
+
+- id: learn-more
+  translation: "learn more"
+
+- id: modal-close
+  translation: "close"
+
+- id: hwwTitle
+  translation: "How we work"

@@ -77,3 +77,60 @@
   translation: "Automatisierung mit Cognotekt geht weit über Big Data Technologien hinaus. Mit unseren Methoden lassen sich wissensbasierte, intelligente Geschäftsprozesse in operative Mathematik überführen. Und damit entscheidend verbessern: hinsichtlich Zeit, Kosten, Qualität, Performance.
 
                 Den digitalen Wandel unserer Kunden begleiten wir von der Machbarkeitsstudie bis zur Frontend-Schulung. Unser Software-as-a-Service-Angebot umfasst ein erfolgsorientiertes Lizenzmodell, das für Sie die Vorteile von Kostentransparenz, geringer IT-Komplexität und anwenderfreundlichem User Interface verbindet."
+
+- id: solutionsTitle
+  translation: "Lösungen"
+
+- id: SuLI
+  translation: "Schaden- und Leistungsmanagement Insurance"
+
+- id: SuLI-sub
+  translation: "Prozesskostensenkung und Reduktion der Schadensumme"
+
+- id: SuLI-sub-long
+  translation: "Prozesskostensenkung und Reduktion der Schadensumme Von der Schadenerstmeldung oder dem Erstattungsantrag bis zur Kundenberatung und abschließenden Regulierung automatisieren wir Ihre Schadenprozesse. Spartenabhängig erreichen wir Automatisierungsquoten von 60 bis 90%, indem wir die Bearbeitung erfolgreicher Fälle nachbilden. Darüber hinaus erkennt unsere Software Muster, die der Mensch nicht sieht. So können Sie die Schadensumme je nach Sparte um 1-10% senken."
+
+- id: KyCmKI
+  translation: "Know your customer -mit KI"
+
+- id: KyCmKI-sub
+  translation: "Customer-Intelligence durch KI-Lektüre des Web"
+
+- id: VI
+  translation: "Vorgangssteuerung Insurance"
+
+- id: VI-sub
+  translation: "Optimierte Durchlaufzeiten, Prozesskosten und Kundenorientierung"
+
+- id: AI
+  translation: "Antragsmanagement Insurance"
+
+- id: AI-sub
+  translation: "Prognose von Versicherungskosten und Risikoverlauf"
+
+- id: CE
+  translation: "Callcenter-Expertensupport"
+
+- id: CE-sub
+  translation: "Maximierte Servicequalität bei komplexen Kundenanfragen"
+
+- id: Im
+  translation: "Inkassomanagement"
+
+- id: Im-sub
+  translation: "Prozesskostensenkung und Maximierung der Zahlungserfolge"
+
+- id: WL
+  translation: "Weitere Lösungen"
+
+- id: WL-sub
+  translation: "Sprechen Sie uns gerne an."
+
+- id: learn-more
+  translation: "mehr erfahren"
+
+- id: modal-close
+  translation: "Schließen"
+
+- id: hwwTitle
+  translation: "Wie wir Arbeiten"
