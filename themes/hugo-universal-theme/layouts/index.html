@@ -13,19 +13,15 @@
 
         </header>
 
-        {{ partial "carousel.html" . }}
+        {{ range .Pages }}
+        {{ .Render "default" }}
+        {{ end }}
 
-        {{ partial "features.html" . }}
+        <footer>
 
-        {{ partial "testimonials.html" . }}
+            {{ partial "footer.html" . }}
 
-        {{ partial "see_more.html" . }}
-
-        {{ partial "recent_posts.html" . }}
-
-        {{ partial "clients.html" . }}
-
-        {{ partial "footer.html" . }}
+        </footer>
 
     </div>
     <!-- /#all -->

@@ -8,3 +8,34 @@
 .box-simple {
   min-height: 230px;
 }
+
+.wr-logo-img {
+  height: 40px;
+}
+
+.wr-navbar-default {
+  background-color: #ededed;
+}
+
+.wr-navbar-font {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.wr-header-img {
+  position: relative;
+  left: 50%;
+  transition: tr;
+  transform: translateX(-50%);
+}
+
+.stage {
+  width: 100%;
+  padding: 11% 0 80px 0;
+}
+
+.stage img {
+  margin: 0 auto;
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
