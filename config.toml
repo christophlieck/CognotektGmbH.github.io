@@ -1,0 +1,32 @@
+baseURL = "http://cognotekt-multi.wanjaunkel.de"
+
+# set the default language to german
+defaultContentLanguage = "de"
+title = "Cognotekt-multi.com"
+theme = "hugo-universal-theme"
+
+#
+# add the menu to the page
+#
+
+# german menu
+[languages.de]
+weight = 0
+languageName = "Deutsch"
+
+[[languages.de.menu.main]]
+url    = "/"
+name   = "Startseite"
+weight = 0
+
+# englisch menu
+[languages.en]
+weight = 10
+languageName = "English"
+
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Home"
+weight = 0
+
+
