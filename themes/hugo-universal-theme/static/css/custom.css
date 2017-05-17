@@ -39,3 +39,66 @@
   height: auto;
   max-width: 100%;
 }
+
+.section-arrow {
+  position: relative;
+}
+
+.grew {
+  background: #ededed;
+}
+
+/**
+ *
+ *  Sections Style
+ *
+ *  @package gleesik_layout
+ *
+ **/
+section.site-section {
+  padding: 100px 0;
+  background: #fff;
+}
+
+section.site-section header.section-header h1, section.site-section header.section-header h2, section.site-section header.section-header h3, section.site-section header.section-header h4, section.site-section header.section-header h5, section.site-section header.section-header h6 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #2c3e50;
+}
+
+section.site-section header.section-header hr.normal {
+  margin: 40px auto;
+}
+
+section.site-section.section-focus {
+  background-color: #f4f8f9;
+}
+
+section.site-section.section-focus.next-section-indicator:after {
+  border-top-color: #f4f8f9;
+}
+
+section.site-section.next-section-indicator {
+  position: relative;
+}
+
+section.site-section.next-section-indicator:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: -30px;
+  left: 50%;
+  z-index: 3;
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  transform: translate(-50%);
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid #fff;
+}
+
+section,
+div.section {
+  margin-bottom: 0px;
+}

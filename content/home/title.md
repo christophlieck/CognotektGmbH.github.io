@@ -1,6 +1,6 @@
 +++
 title = "title"
-description = "title of cognotekt"
+description = "title von cognotekt"
 type = "section/title"
 tags = [ "Cognotekt", "Title" ]
 date = "2017-04-26"
