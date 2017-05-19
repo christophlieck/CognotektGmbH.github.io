@@ -158,3 +158,63 @@
 
 - id: Sswge-sub
   translation: "Dabei haben wir keinen Big Bang im Sinn. Vielmehr stehen wir für ein agiles, inkrementelles Verfahren, das unsere Kunden Schritt für Schritt vorwärts bringt. Nicht prozedural, sondern flexibel und mit großer Methodenvielfalt gehen wir auf Kundenwünsche ein. Mit dem Ziel, für Sie den größtmöglichen Benefit zu erzeugen."
+
+- id: hwa-title
+  translation: "Wer wir sind"
+
+- id: hwa-sub
+  translation: "Cognotekt ist seit 2013 als Unternehmen für Künstliche Intelligenz aktiv."
+
+- id: WSsvk-title
+  translation: "Worauf Sie sich verlassen können"
+
+- id: WSsvk-sub
+  translation: "Unsere Projekte starten grundsolide. Mit genauen Problemanalysen, der Prototypisierung der Lösung und der Erstellung des Businessplans. Auf Wunsch stellen wir Ihnen Simulationen und Teile des Quellcodes zur Verfügung. Etablierte Standards wie Linux und  C++ sowie bewährte Neuentwicklungen wie Go bilden die Basis unserer Software und Cloud-Plattform."
+
+- id: AdsS-title
+  translation: "Auf der sicheren Seite"
+
+- id: AdsS-sub
+  translation: "Wir bieten Ihnen hohe Daten- und Prozesssicherheit. Kundendaten erfassen wir grundsätzlich anonymisiert mit einer SSL Verschlüsselung. Zusätzlich ist der Prozessablauf gedächtnislos und findet in einer abgeschotteten, sehr flexiblen Infrastruktur statt. Denn unsere Cloudlösung basiert auf einem hochsicheren, zertifizierten Rechenzentrum."
+
+- id: VD-title
+  translation: "Verantwortliches Deployment"
+
+- id: VD-sub
+  translation: "Über Test- und Integrationsphasen bis zum letzten Produktionsendpunkt: Wir zeichnen uns durch konsequentes und kontinuierliches Deployment aus. Dafür bringen wir umfassende Erfahrung mit: Serviceorientierte Architektur, SOA Evolution Roadmaps für Legacy Systeme, Enterprise Integration Patterns, eine breite Lösungspalette für User Interface Integration u.v.m."
+
+- id: DrJL-title
+  translation: "Dr. Jobst Landgrebe"
+
+- id: DrJL-sub
+  translation: "Cognotekt-Gründer und -Gesellschafter. Arzt und Mathematiker, 16 Jahre Erfahrung im Bereich Künstliche Intelligenz, 8 Jahre als Unternehmensberater und Softwarearchitekt. Spezialisiert auf Design und Umsetzung von holistischen KI-Lösungen. Erfahren in der Versicherungswirtschaft."
+
+- id: DrDvS-title
+  translation: "Dr. Dankwart von Schultzendorff"
+
+- id: DrDvS-sub
+  translation: "Cognotekt-Gesellschafter und verantwortlich für das Versicherungsgeschäft. Wirtschaftswissenschaftler, 30 Jahre Erfahrung als Führungskraft, Vorstand und Aufsichtsrat in der Versicherungsindustrie. Breite und tiefe Expertise, Sparten-, Akquisitions- und Reorganisationserfahrung. Fundierte Marktkenntnis."
+
+- id: DrRM-title
+  translation: "Dr. Rupprecht Milojcic"
+
+- id: DrRM-sub
+  translation: "Direktor Medizin & Vertrieb. Dr. Milojcic ist Arzt und arbeitete als solcher in Boston (MEEI, Harvard Medical School) und Erlangen (HNO-Klinik). Im Anschluss gründete er eine Internet-Firma und war mehrere Jahre für eine der führenden Strategieberatungen im Gesundheitsbereich tätig. Bei Cognotekt überbrückt er die Lücke zwischen Anwendung und Anwendern."
+
+- id: DrMM-title
+  translation: "Dr. Matthias Makowski"
+
+- id: DrMM-sub
+  translation: "Leiter Mathematik. Mathematiker mit Spezialisierung in Differentialgeometrie. Sehr erfahren im Bereich komplexe KI-Automaten und KI-Engineering mit C++, Python und R. Erfahrung mit KI-Automaten für die PKV und für Callcenter"
+
+- id: AB-title
+  translation: "Axel Bock"
+
+- id: AB-sub
+  translation: "Leiter Infrastruktur. Elektroingenieur mit 15 Jahren Erfahrung im Cloud-Computing und virtuellen Rechenzentren. Garant für hochverfügbares, zuverlässiges und skalierbares Rechnen Ihrer Anwendungen auf der Cloud oder auf Linux-Clustern on premise."
+
+- id: Wws-title
+  translation: "Wen wir suchen"
+
+- id: Wws-sub
+  translation: "Bewerbungen schicken Sie bitte an hr@cognotekt.com."

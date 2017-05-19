@@ -1,5 +1,5 @@
 +++
-title = "how we work"
+title = "howwework"
 description = "Wie wir Arbeiten"
 type = "section/howwework"
 tags = [ "Cognotekt", "Wie wir Arbeiten", "Arbeiten" ]

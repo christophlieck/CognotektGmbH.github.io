@@ -154,4 +154,50 @@
 - id: Sswge-sub
   translation: "We dont have a Big Bang in mind [englische übersetzung]. Vielmehr stehen wir für ein agiles, inkrementelles Verfahren, das unsere Kunden Schritt für Schritt vorwärts bringt. Nicht prozedural, sondern flexibel und mit großer Methodenvielfalt gehen wir auf Kundenwünsche ein. Mit dem Ziel, für Sie den größtmöglichen Benefit zu erzeugen."
 
+- id: hwa-title
+  translation: "Who we are"
 
+- id: hwa-sub
+  translation: "Sins 2013 Cognotekt working on Artificial Inteligence."
+
+- id: WSsvk-title
+  translation: "What u can rely on"
+
+- id: WSsvk-sub
+  translation: "Our projekts start Basesolid [ englische übersetzung ... ]. Mit genauen Problemanalysen, der Prototypisierung der Lösung und der Erstellung des Businessplans. Auf Wunsch stellen wir Ihnen Simulationen und Teile des Quellcodes zur Verfügung. Etablierte Standards wie Linux und  C++ sowie bewährte Neuentwicklungen wie Go bilden die Basis unserer Software und Cloud-Plattform."
+
+- id: AdsS-title
+  translation: "On the save side"
+
+- id: AdsS-sub
+  translation: "We offer high Data & Processsecurity [ englische übersetzung ...]. Kundendaten erfassen wir grundsätzlich anonymisiert mit einer SSL Verschlüsselung. Zusätzlich ist der Prozessablauf gedächtnislos und findet in einer abgeschotteten, sehr flexiblen Infrastruktur statt. Denn unsere Cloudlösung basiert auf einem hochsicheren, zertifizierten Rechenzentrum."
+
+- id: DrJL-title
+  translation: "Dr. Jobst Landgrebe"
+
+- id: DrJL-sub
+  translation: "Cognotekt-founder & shareholder [ englische übersetzung ...]. Arzt und Mathematiker, 16 Jahre Erfahrung im Bereich Künstliche Intelligenz, 8 Jahre als Unternehmensberater und Softwarearchitekt. Spezialisiert auf Design und Umsetzung von holistischen KI-Lösungen. Erfahren in der Versicherungswirtschaft."
+
+- id: DrDvS-title
+  translation: "Dr. Dankwart von Schultzendorff"
+
+- id: DrDvS-sub
+  translation: "Cognotekt-shareholder [ englische übersetzung ...] und verantwortlich für das Versicherungsgeschäft. Wirtschaftswissenschaftler, 30 Jahre Erfahrung als Führungskraft, Vorstand und Aufsichtsrat in der Versicherungsindustrie. Breite und tiefe Expertise, Sparten-, Akquisitions- und Reorganisationserfahrung. Fundierte Marktkenntnis."
+
+- id: DrRM-title
+  translation: "Dr. Rupprecht Milojcic"
+
+- id: DrRM-sub
+  translation: "Direktor medicine & distribution [ englische übersetzung ...]. Dr. Milojcic ist Arzt und arbeitete als solcher in Boston (MEEI, Harvard Medical School) und Erlangen (HNO-Klinik). Im Anschluss gründete er eine Internet-Firma und war mehrere Jahre für eine der führenden Strategieberatungen im Gesundheitsbereich tätig. Bei Cognotekt überbrückt er die Lücke zwischen Anwendung und Anwendern."
+
+- id: DrMM-title
+  translation: "Dr. Matthias Makowski"
+
+- id: DrMM-sub
+  translation: "Head of mathematics [ englische übersetzung ...] Leiter Mathematik. Mathematiker mit Spezialisierung in Differentialgeometrie. Sehr erfahren im Bereich komplexe KI-Automaten und KI-Engineering mit C++, Python und R. Erfahrung mit KI-Automaten für die PKV und für Callcenter"
+
+- id: AB-title
+  translation: "Axel Bock"
+
+- id: AB-sub
+  translation: "Head of infrastructure [ englische übersetzung ...]. Elektroingenieur mit 15 Jahren Erfahrung im Cloud-Computing und virtuellen Rechenzentren. Garant für hochverfügbares, zuverlässiges und skalierbares Rechnen Ihrer Anwendungen auf der Cloud oder auf Linux-Clustern on premise."
