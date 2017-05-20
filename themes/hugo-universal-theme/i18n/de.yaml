@@ -218,3 +218,6 @@
 
 - id: Wws-sub
   translation: "Bewerbungen schicken Sie bitte an hr@cognotekt.com."
+
+- id: blog-title
+  translation: "Blog"

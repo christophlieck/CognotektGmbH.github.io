@@ -4,6 +4,8 @@ baseURL = "http://cognotekt-multi.wanjaunkel.de"
 defaultContentLanguage = "de"
 title = "Cognotekt-multi.com"
 theme = "hugo-universal-theme"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
 
 #
 # add the menu to the page

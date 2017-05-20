@@ -7,7 +7,7 @@ date = "2017-05-19"
 weight = 5
 categories = [
   "Wir",
-  "sind";
+  "sind",
   "Cognotekt"
 ]
 +++

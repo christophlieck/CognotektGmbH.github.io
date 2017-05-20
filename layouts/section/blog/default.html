@@ -1,0 +1,21 @@
+<section class="site-section next-section-indicator" id="hwa">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="posts">
+                    <h1 id="title">{{ i18n "blog-title" }}</h1>
+                    {{ range .Site.Pages.GroupByDate "2017" }}
+                    <h2>{{ .Key }}</h2>
+                    <!-- ANOTHER WAY: <div style="margin-left: 2em" id="list"></div> -->
+                    <ul id="list">
+                        {{ range .Pages }}
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+                        {{ .Render "li"}}
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                </div>
+        </div>
+    </div>
+</section>
+

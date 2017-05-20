@@ -201,3 +201,6 @@
 
 - id: AB-sub
   translation: "Head of infrastructure [ englische übersetzung ...]. Elektroingenieur mit 15 Jahren Erfahrung im Cloud-Computing und virtuellen Rechenzentren. Garant für hochverfügbares, zuverlässiges und skalierbares Rechnen Ihrer Anwendungen auf der Cloud oder auf Linux-Clustern on premise."
+
+- id: blog-title
+  translation: "Blog"
