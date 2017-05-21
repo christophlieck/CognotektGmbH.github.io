@@ -19,7 +19,12 @@ languageName = "Deutsch"
 [[languages.de.menu.main]]
 url    = "/"
 name   = "Startseite"
-weight = 0
+weight = 1
+
+[[languages.de.menu.main]]
+url    = "/"
+name   = "Blog"
+weight = 2
 
 # englisch menu
 [languages.en]
@@ -29,6 +34,18 @@ languageName = "English"
 [[languages.en.menu.main]]
 url    = "/"
 name   = "Home"
-weight = 0
+weight = 1
 
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Blog"
+weight = 2
 
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable and disable recent posts in the footer
+[params.recent_posts]
+    enable = true
+    title = "In the News"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."

@@ -13,9 +13,12 @@
 
         </header>
 
+
         {{ range .Pages }}
         {{ .Render "default" }}
         {{ end }}
+
+        {{ template "theme/partials/wr_recent_posts.html" . }}
 
         <footer>
 
