@@ -4,6 +4,7 @@ date = "2017-05-19T12:24:34+02:00"
 tags = []
 title = "post1"
 type = "post"
+author = "Wanja Runkel"
 
 +++
 
