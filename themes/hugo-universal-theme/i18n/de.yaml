@@ -221,3 +221,6 @@
 
 - id: blog-title
   translation: "Blog"
+
+- id: blog-author
+  translation: "Von"

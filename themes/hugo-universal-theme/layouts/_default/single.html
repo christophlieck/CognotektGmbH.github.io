@@ -22,13 +22,23 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
+
                     <div class="col-md-9" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}</p>
+                        <div class="image" style="overflow:hidden;">
+                            {{ if isset .Params "banner" }}
+                            <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
+                            {{ else }}
+                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                            {{ end }}
+                        </div>
 
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+
+                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}</p>
+
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
