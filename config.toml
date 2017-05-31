@@ -1,11 +1,13 @@
-baseURL = "http://cognotekt.wanjarunkel.de/"
+baseURL = "https://github.com/CognotektGmbH/CognotektGmbH.github.io"
+#baseURL = "http://cognotekt.wanjarunkel.de/"
 
 # set the default language to german
 defaultContentLanguage = "de"
 title = "Cognotekt-multi.com"
 theme = "hugo-universal-theme"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+#googleAnalytics = ""
+publishDir = "docs"
 
 #
 # add the menu to the page
