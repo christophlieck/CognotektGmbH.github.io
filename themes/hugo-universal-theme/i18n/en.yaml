@@ -1,0 +1,209 @@
+- id: home
+  translation: "Home"
+
+- id: templateBy
+  translation: "Template by"
+
+- id: portedBy
+  translation: "Ported to Hugo by"
+
+- id: contactGoTo
+  translation: "Go to contact page"
+
+- id: contactAddrTitle
+  translation: "Address"
+
+- id: contactTitle
+  translation: "Contact"
+
+- id: contactForm
+  translation: "Contact form"
+
+- id: contactName
+  translation: "Your Name"
+
+- id: contactMail
+  translation: "Your Email"
+
+- id: contactMessage
+  translation: "Your Message"
+
+- id: contactSend
+  translation: "Send Message"
+
+- id: navHome
+  translation: "go to homepage"
+
+- id: navToggle
+  translation: "Toggle Navigation"
+
+- id: categoriesTitle
+  translation: "Categories"
+
+- id: searchTitle
+  translation: "Search"
+
+- id: tagsTitle
+  translation: "Tags"
+
+- id: continueReading
+  translation: "Continue reading"
+
+- id: readMore
+  translation: "Read more"
+
+- id: authorBy
+  translation: "By"
+
+- id: recentPosts
+  translation: "Recent posts"
+
+- id: aboutUs
+  translation: "About us"
+
+- id: newer
+  translation: "Newer"
+
+- id: older
+  translation: "Older"
+
+- id: whatwedo
+  translation: "What we do"
+
+- id: coybp
+  translation: "Cognotekt optimises your Buisness Processes with the help of artificial intelligence."
+
+- id: awc
+  translation: "Automating with Cognotekt [ übersetzung in englisch ]... geht weit über Big Data Technologien hinaus. Mit unseren Methoden lassen sich wissensbasierte, intelligente Geschäftsprozesse in operative Mathematik überführen. Und damit entscheidend verbessern: hinsichtlich Zeit, Kosten, Qualität, Performance. <br> Den digitalen Wandel unserer Kunden begleiten wir von der Machbarkeitsstudie bis zur Frontend-Schulung. Unser Software-as-a-Service-Angebot umfasst ein erfolgsorientiertes Lizenzmodell, das für Sie die Vorteile von Kostentransparenz, geringer IT-Komplexität und anwenderfreundlichem User Interface verbindet."
+
+- id: solutionsTitle
+  translation: "Solutions"
+
+- id: SuLI
+  translation: "Harm and Performancemanagement Insurance"
+
+- id: SuLI-sub
+  translation: "Process-Cost / Damage-Sum  reduction"
+
+- id: KyCmKI
+  translation: "Know your customer -with A.I."
+
+- id: KyCmKI-sub
+  translation: "Customer-Intelligence trough A.I.-reading des Web"
+
+- id: VI
+  translation: "Process-Control Insurance"
+
+- id: VI-sub
+  translation: "Optimized runtimes, Process-costs and Customer-orientation"
+
+- id: AI
+  translation: "Applicant-Management Insurance"
+
+- id: AI-sub
+  translation: "Prognostics of Insurance Costs and Risk development"
+
+- id: CE
+  translation: "Callcenter-expertsupport"
+
+- id: CE-sub
+  translation: "Maximised Service-Quality of complex customer questions"
+
+- id: Im
+  translation: "Collectionmanagement"
+
+- id: Im-sub
+  translation: "Process cost reduction &Maximizing the payment success"
+
+- id: WL
+  translation: "Other solutions"
+
+- id: WL-sub
+  translation: "Please feel free to contact us."
+
+- id: learn-more
+  translation: "learn more"
+
+- id: modal-close
+  translation: "close"
+
+- id: hwwTitle
+  translation: "How we work"
+
+- id: WmUu
+  translation: "What makes us unique"
+
+- id: WmUu-sub
+  translation: "Our works have provided us with a new production basis [ englische übersetzung ], bisher weltweit einzigartige Technologie zur sinnerhaltenden Überführung von sprachlichen (textuellen und mündlichen) Inhalten in Mathematik. Damit können wir beispielsweise die in einem Textabsatz geäußerten Gedanken mathematisch abbilden und dann damit rechnen. Dadurch ergeben sich überall da, wo Sprache verstanden und verarbeitet werden muss, neue Einsatzmöglichkeiten."
+
+- id: IKfkI
+  translation: "Smart Minds for smart solutions"
+
+- id: IKfkI-sub
+  translation: "Cognotekt translates your processes in complex Math [ englische übersetzung ]. Unsere Mission ist die Mathematisierung der Wirtschaft im Dialog der verschiedenen Wissenschaftsdisziplinen. Mit dem Ziel, durch eindeutige mathematische Aussagen Kosten zu reduzieren und Qualität zukunftssicher zu verbessern."
+
+- id: FaI
+  translation: "The joy of the game"
+
+- id: FaI-sub
+  translation: "It requires precise understanding of this system [ englische übersetzung ]. Deshalb konzentriert sich bei Cognotekt ein Team aus Linguisten, Mathematikern, Physikern, Informatikern und Ökonomen auf die fachlichen Inhalte der Kundenprozesse. Mit dem Ziel, Wirtschaftssprache sinnvoll und zielführend in digitalen Strukturen abzubilden"
+
+- id: Sswge
+  translation: "Small steps with great effect"
+
+- id: Sswge-sub
+  translation: "We dont have a Big Bang in mind [englische übersetzung]. Vielmehr stehen wir für ein agiles, inkrementelles Verfahren, das unsere Kunden Schritt für Schritt vorwärts bringt. Nicht prozedural, sondern flexibel und mit großer Methodenvielfalt gehen wir auf Kundenwünsche ein. Mit dem Ziel, für Sie den größtmöglichen Benefit zu erzeugen."
+
+- id: hwa-title
+  translation: "Who we are"
+
+- id: hwa-sub
+  translation: "Sins 2013 Cognotekt working on Artificial Inteligence."
+
+- id: WSsvk-title
+  translation: "What u can rely on"
+
+- id: WSsvk-sub
+  translation: "Our projekts start Basesolid [ englische übersetzung ... ]. Mit genauen Problemanalysen, der Prototypisierung der Lösung und der Erstellung des Businessplans. Auf Wunsch stellen wir Ihnen Simulationen und Teile des Quellcodes zur Verfügung. Etablierte Standards wie Linux und  C++ sowie bewährte Neuentwicklungen wie Go bilden die Basis unserer Software und Cloud-Plattform."
+
+- id: AdsS-title
+  translation: "On the save side"
+
+- id: AdsS-sub
+  translation: "We offer high Data & Processsecurity [ englische übersetzung ...]. Kundendaten erfassen wir grundsätzlich anonymisiert mit einer SSL Verschlüsselung. Zusätzlich ist der Prozessablauf gedächtnislos und findet in einer abgeschotteten, sehr flexiblen Infrastruktur statt. Denn unsere Cloudlösung basiert auf einem hochsicheren, zertifizierten Rechenzentrum."
+
+- id: DrJL-title
+  translation: "Dr. Jobst Landgrebe"
+
+- id: DrJL-sub
+  translation: "Cognotekt-founder & shareholder [ englische übersetzung ...]. Arzt und Mathematiker, 16 Jahre Erfahrung im Bereich Künstliche Intelligenz, 8 Jahre als Unternehmensberater und Softwarearchitekt. Spezialisiert auf Design und Umsetzung von holistischen KI-Lösungen. Erfahren in der Versicherungswirtschaft."
+
+- id: DrDvS-title
+  translation: "Dr. Dankwart von Schultzendorff"
+
+- id: DrDvS-sub
+  translation: "Cognotekt-shareholder [ englische übersetzung ...] und verantwortlich für das Versicherungsgeschäft. Wirtschaftswissenschaftler, 30 Jahre Erfahrung als Führungskraft, Vorstand und Aufsichtsrat in der Versicherungsindustrie. Breite und tiefe Expertise, Sparten-, Akquisitions- und Reorganisationserfahrung. Fundierte Marktkenntnis."
+
+- id: DrRM-title
+  translation: "Dr. Rupprecht Milojcic"
+
+- id: DrRM-sub
+  translation: "Direktor medicine & distribution [ englische übersetzung ...]. Dr. Milojcic ist Arzt und arbeitete als solcher in Boston (MEEI, Harvard Medical School) und Erlangen (HNO-Klinik). Im Anschluss gründete er eine Internet-Firma und war mehrere Jahre für eine der führenden Strategieberatungen im Gesundheitsbereich tätig. Bei Cognotekt überbrückt er die Lücke zwischen Anwendung und Anwendern."
+
+- id: DrMM-title
+  translation: "Dr. Matthias Makowski"
+
+- id: DrMM-sub
+  translation: "Head of mathematics [ englische übersetzung ...] Leiter Mathematik. Mathematiker mit Spezialisierung in Differentialgeometrie. Sehr erfahren im Bereich komplexe KI-Automaten und KI-Engineering mit C++, Python und R. Erfahrung mit KI-Automaten für die PKV und für Callcenter"
+
+- id: AB-title
+  translation: "Axel Bock"
+
+- id: AB-sub
+  translation: "Head of infrastructure [ englische übersetzung ...]. Elektroingenieur mit 15 Jahren Erfahrung im Cloud-Computing und virtuellen Rechenzentren. Garant für hochverfügbares, zuverlässiges und skalierbares Rechnen Ihrer Anwendungen auf der Cloud oder auf Linux-Clustern on premise."
+
+- id: blog-title
+  translation: "Blog"
+
+- id: blog-author
+  translation: "Bygit s"
