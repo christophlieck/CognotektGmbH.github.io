@@ -1,4 +1,4 @@
-baseURL = "https://github.com/CognotektGmbH.github.io"
+baseURL = "CognotektGmbH.github.io"
 #baseURL = "http://cognotekt.wanjarunkel.de/"
 
 # set the default language to german
