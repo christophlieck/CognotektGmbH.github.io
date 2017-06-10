@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cognotekt-multi.com</title>
-    <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/blog/</link>
+      <link>/en/tags/blog/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/blog/</guid>
+      <guid>/en/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognotekt</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/cognotekt/</link>
+      <link>/en/tags/cognotekt/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/cognotekt/</guid>
+      <guid>/en/tags/cognotekt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How We Work</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/how-we-work/</link>
+      <link>/en/tags/how-we-work/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/how-we-work/</guid>
+      <guid>/en/tags/how-we-work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jobs</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/jobs/</link>
+      <link>/en/tags/jobs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/jobs/</guid>
+      <guid>/en/tags/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solutions</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/solutions/</link>
+      <link>/en/tags/solutions/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/solutions/</guid>
+      <guid>/en/tags/solutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Title</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/title/</link>
+      <link>/en/tags/title/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/title/</guid>
+      <guid>/en/tags/title/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wer Wir Sind</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/wer-wir-sind/</link>
+      <link>/en/tags/wer-wir-sind/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/wer-wir-sind/</guid>
+      <guid>/en/tags/wer-wir-sind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What We Do</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/what-we-do/</link>
+      <link>/en/tags/what-we-do/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/what-we-do/</guid>
+      <guid>/en/tags/what-we-do/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who We Are Looking For</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/who-we-are-looking-for/</link>
+      <link>/en/tags/who-we-are-looking-for/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/who-we-are-looking-for/</guid>
+      <guid>/en/tags/who-we-are-looking-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/work/</link>
+      <link>/en/tags/work/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/en/tags/work/</guid>
+      <guid>/en/tags/work/</guid>
       <description></description>
     </item>
     

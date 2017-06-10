@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wir on Cognotekt-multi.com</title>
-    <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/tags/wir/</link>
+    <link>/tags/wir/</link>
     <description>Recent content in Wir on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/CognotektGmbH/CognotektGmbH.github.io/tags/wir/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/wir/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hwa</title>
-      <link>https://github.com/CognotektGmbH/CognotektGmbH.github.io/home/hwa/</link>
+      <link>/home/hwa/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH/CognotektGmbH.github.io/home/hwa/</guid>
+      <guid>/home/hwa/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
