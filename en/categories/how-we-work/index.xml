@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How We Work on Cognotekt-multi.com</title>
-    <link>https://github.com/CognotektGmbH.github.io/en/categories/how-we-work/</link>
+    <link>CognotektGmbH.github.io/en/categories/how-we-work/</link>
     <description>Recent content in How We Work on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/CognotektGmbH.github.io/en/categories/how-we-work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="CognotektGmbH.github.io/en/categories/how-we-work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>howwework.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/howwework/</link>
+      <link>CognotektGmbH.github.io/en/home/howwework/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/howwework/</guid>
+      <guid>CognotektGmbH.github.io/en/home/howwework/</guid>
       <description>Content of the file goes Here</description>
     </item>
     

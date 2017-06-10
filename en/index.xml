@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognotekt-multi.com</title>
-    <link>https://github.com/CognotektGmbH.github.io/en/</link>
+    <link>CognotektGmbH.github.io/en/</link>
     <description>Recent content on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/CognotektGmbH.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="CognotektGmbH.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>title.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/title/</link>
+      <link>CognotektGmbH.github.io/en/home/title/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/title/</guid>
+      <guid>CognotektGmbH.github.io/en/home/title/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>wwd.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/wwd/</link>
+      <link>CognotektGmbH.github.io/en/home/wwd/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/wwd/</guid>
+      <guid>CognotektGmbH.github.io/en/home/wwd/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>solutions.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/solutions/</link>
+      <link>CognotektGmbH.github.io/en/home/solutions/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/solutions/</guid>
+      <guid>CognotektGmbH.github.io/en/home/solutions/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>howwework.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/howwework/</link>
+      <link>CognotektGmbH.github.io/en/home/howwework/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/howwework/</guid>
+      <guid>CognotektGmbH.github.io/en/home/howwework/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>hwa.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/hwa/</link>
+      <link>CognotektGmbH.github.io/en/home/hwa/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/hwa/</guid>
+      <guid>CognotektGmbH.github.io/en/home/hwa/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>jobs.en</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/jobs/</link>
+      <link>CognotektGmbH.github.io/en/home/jobs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/jobs/</guid>
+      <guid>CognotektGmbH.github.io/en/home/jobs/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/home/blog/</link>
+      <link>CognotektGmbH.github.io/en/home/blog/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/home/blog/</guid>
+      <guid>CognotektGmbH.github.io/en/home/blog/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>Colleague robot</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/kollegeroboter/</link>
+      <link>CognotektGmbH.github.io/en/blog/2017/05/20/kollegeroboter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/kollegeroboter/</guid>
+      <guid>CognotektGmbH.github.io/en/blog/2017/05/20/kollegeroboter/</guid>
       <description>(&amp;hellip;)
  The Cologne-based company Cognotekt, which automates business processes with the help of artificial intelligence, shows how realistic the danger to desk workers is, and thus eliminates numerous jobs in insurance. The German insurance industry today employs tens of thousands of clerks to investigate whether an attempt at fraud is in progress or whether the insurance company can potentially reduce the damage. &amp;ldquo;In ten years, a maximum of 20 percent of these employees are needed,&amp;rdquo; says Cognotekt CEO Jobst Landgrebe.</description>
     </item>
     
     <item>
       <title>Each damage handler is replaceable</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/jederscjadembearbeiter/</link>
+      <link>CognotektGmbH.github.io/en/blog/2017/05/20/jederscjadembearbeiter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/jederscjadembearbeiter/</guid>
+      <guid>CognotektGmbH.github.io/en/blog/2017/05/20/jederscjadembearbeiter/</guid>
       <description>The insurance industry is in an unstoppable digital upheaval. This is hardly different from other sectors. But for two reasons, it is harsher: through the sharp regulation of products and companies there were market entry barriers, through which technical innovations for a long time did not penetrate the conservative branches. In addition, the linguistic and pictorial content with which insurers are concerned are very complex. This made it more difficult to automate them than in logistics or online commerce, where only numbers need to be processed.</description>
     </item>
     
     <item>
       <title>Insurers want to be like Amazon</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/versichererwollen/</link>
+      <link>CognotektGmbH.github.io/en/blog/2017/05/20/versichererwollen/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/versichererwollen/</guid>
+      <guid>CognotektGmbH.github.io/en/blog/2017/05/20/versichererwollen/</guid>
       <description>(&amp;hellip;)
  If the job went to Jobst Landgrebe, the insurers would have to be much faster. The founder and owner of Cognotekt relies on artificial intelligence as an efficient player. For many years the entrepreneur worked in the insurance industry and realized that many damages are so similar that they can be automated well. For a service provider in the car insurance, he has built a vending machine, which looks at cost estimates or bills from workshops, whether they are objectionable.</description>
     </item>
     
     <item>
       <title>Supercomputer replaces insurance workers in Japan</title>
-      <link>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/supercomputerersetzt/</link>
+      <link>CognotektGmbH.github.io/en/blog/2017/05/20/supercomputerersetzt/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>https://github.com/CognotektGmbH.github.io/en/blog/2017/05/20/supercomputerersetzt/</guid>
+      <guid>CognotektGmbH.github.io/en/blog/2017/05/20/supercomputerersetzt/</guid>
       <description>(&amp;hellip;)
 Artificial intelligence is also an issue under German insurers, which is discussed. EY Innovalue, the company&amp;rsquo;s consultancy, has just shown in a study that there is still a big discrepancy between perceived opportunities and the actual willingness to change. As a result, 75 per cent of the companies surveyed held an automatic damage test, an automatic cover test for simple damage and an automatic examination of expert opinions and invoices for a relevant future issue.</description>
     </item>
