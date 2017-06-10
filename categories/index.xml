@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cognotekt-multi.com</title>
-    <link>/categories/</link>
+    <link>https://github.com/CognotektGmbH.github.io/categories/</link>
     <description>Recent content in Categories on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/CognotektGmbH.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arbeiten</title>
-      <link>/categories/arbeiten/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/arbeiten/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/arbeiten/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/arbeiten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>/categories/blog/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/blog/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognotekt</title>
-      <link>/categories/cognotekt/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/cognotekt/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cognotekt/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/cognotekt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jobs</title>
-      <link>/categories/jobs/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/jobs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/jobs/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lösungen</title>
-      <link>/categories/l%C3%B6sungen/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/l%C3%B6sungen/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/l%C3%B6sungen/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/l%C3%B6sungen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sind</title>
-      <link>/categories/sind/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/sind/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sind/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/sind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Title</title>
-      <link>/categories/title/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/title/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/title/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/title/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What We Do</title>
-      <link>/categories/what-we-do/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/what-we-do/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/what-we-do/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/what-we-do/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wir</title>
-      <link>/categories/wir/</link>
+      <link>https://github.com/CognotektGmbH.github.io/categories/wir/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/wir/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/categories/wir/</guid>
       <description></description>
     </item>
     

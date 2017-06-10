@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Cognotekt-multi.com</title>
-    <link>/blog/</link>
+    <link>https://github.com/CognotektGmbH.github.io/blog/</link>
     <description>Recent content in Blogs on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 May 2017 12:24:34 +0200</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/CognotektGmbH.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jeder Schadenbearbeiter ist ersetzbar</title>
-      <link>/blog/2017/05/20/jederschadenbearbeiter/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/jederschadenbearbeiter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/jederschadenbearbeiter/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/jederschadenbearbeiter/</guid>
       <description>Die Versicherungswirtschaft ist in einem unaufhaltsamen digitalen Umbruch. Darin unterscheidet sie sich kaum von anderen Branchen. Aber aus zwei Gründen trifft es sie härter: Durch die scharfe Regulierung von Produkten und Unternehmen gab es Markteintrittsbarrieren, durch die technische Innovationen lange nicht in die konservativen Branchen eindrangen. Außerdem sind die sprachlichen und bildlichen Inhalte, mit denen Versicherer zu tun haben, sehr komplex. Dadurch war es schwieriger, sie zu automatisieren, als in der Logistik oder im Online-Handel, wo nur Zahlen verarbeitet werden müssen.</description>
     </item>
     
     <item>
       <title>Kollege Roboter</title>
-      <link>/blog/2017/05/20/kollegeroboter/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/kollegeroboter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/kollegeroboter/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/kollegeroboter/</guid>
       <description>(&amp;hellip;)
 Wie realistisch die Gefahr für die Schreibtischarbeiter schon ist, zeigt das Kölner Unternehmen Cognotekt, das Geschäftsprozesse mit Hilfe künstlicher Intelligenz automatisiert – und damit zahlreiche Arbeitsplätze in Versicherungen wegrationalisiert. Für die Prüfung, ob ein Betrugsversuch vorliegt oder ob die Assekuranz die Schadenssumme möglicherweise senken kann, beschäftigt die deutsche Versicherungsbranche heute Zigtausende Sachbearbeiter. „In zehn Jahren werden höchstens noch 20 Prozent dieser Mitarbeiter benötigt“, sagt Cognotekt-Geschäftsführer Jobst Landgrebe voraus. „Denn Maschinen können mit 99,9 Prozent Genauigkeit die Fälle herausfiltern, die genauer angesehen werden sollten.</description>
     </item>
     
     <item>
       <title>Supercomputer ersetzt in Japan Versicherungsangestellte</title>
-      <link>/blog/2017/05/20/supercomputerersetzt/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/supercomputerersetzt/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/supercomputerersetzt/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/supercomputerersetzt/</guid>
       <description>(&amp;hellip;)
 Künstliche Intelligenz ist auch unter deutschen Versicherern ein Thema, das diskutiert wird. Die Unternehmensberatung EY Innovalue hat gerade in einer Untersuchung belegt, dass es hier noch eine große Diskrepanz zwischen wahrgenommenen Chancen und der tatsächlichen Veränderungsbereitschaft gebe. 75 Prozent der befragten Unternehmen hielten demnach sowohl eine automatische Schadenprüfung, eine automatische Deckungsprüfung nach einfachen Schäden und eine automatische Prüfung von Gutachten und Rechnungen für eine relevantes Zukunftsthema. Bislang würden diese Themen allerdings in den Unternehmen kontrovers diskutiert.</description>
     </item>
     
     <item>
       <title>Versicherer wollen wie Amazon werden</title>
-      <link>/blog/2017/05/20/versichererwollen/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/versichererwollen/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/versichererwollen/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/versichererwollen/</guid>
       <description>(&amp;hellip;)
 Wenn es nach Jobst Landgrebe ginge, müssten die Versicherer noch viel schneller sein. Der Gründer und Inhaber von Cognotekt setzt auf Künstliche Intelligenz als Effizienzbringer. Jahrelang arbeitete der Unternehmer in der Versicherungswirtschaft und erkannte, dass viele Schadenfälle so ähnlich sind, dass sie sich gut automatisieren lassen. Für einen Dienstleister in der Autoversicherung hat er einen Automaten gebaut, der Kostenvoranschlägen oder Rechnungen von Werkstätten ansieht, ob sie beanstandenswert sind. Dafür hat er eine sechsstellige Zahl alter Belege dokumentiert.</description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>/blog/2017/05/20/first/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/first/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/first/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/first/</guid>
       <description>My first blog post Test post first content &amp;hellip;</description>
     </item>
     
     <item>
       <title>second post</title>
-      <link>/blog/2017/05/20/second/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/second/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/second/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/second/</guid>
       <description>My second blog post Test post second content &amp;hellip;</description>
     </item>
     
     <item>
       <title>third post</title>
-      <link>/blog/2017/05/20/third/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/third/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/20/third/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/20/third/</guid>
       <description>My second blog post Test post third content &amp;hellip; bla bla bla</description>
     </item>
     
     <item>
       <title>post1</title>
-      <link>/blog/2017/05/19/post1/</link>
+      <link>https://github.com/CognotektGmbH.github.io/blog/2017/05/19/post1/</link>
       <pubDate>Fri, 19 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>/blog/2017/05/19/post1/</guid>
+      <guid>https://github.com/CognotektGmbH.github.io/blog/2017/05/19/post1/</guid>
       <description>Lorem Ipsum Test post &amp;hellip; bla bla bla</description>
     </item>
     
