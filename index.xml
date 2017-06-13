@@ -124,7 +124,8 @@
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
       <guid>https://cognotektgmbh.github.io/blog/2017/05/20/jederschadenbearbeiter/</guid>
-      <description>Die Versicherungswirtschaft ist in einem unaufhaltsamen digitalen Umbruch. Darin unterscheidet sie sich kaum von anderen Branchen. Aber aus zwei Gründen trifft es sie härter: Durch die scharfe Regulierung von Produkten und Unternehmen gab es Markteintrittsbarrieren, durch die technische Innovationen lange nicht in die konservativen Branchen eindrangen. Außerdem sind die sprachlichen und bildlichen Inhalte, mit denen Versicherer zu tun haben, sehr komplex. Dadurch war es schwieriger, sie zu automatisieren, als in der Logistik oder im Online-Handel, wo nur Zahlen verarbeitet werden müssen.</description>
+      <description>(&amp;hellip;)
+Die Versicherungswirtschaft ist in einem unaufhaltsamen digitalen Umbruch. Darin unterscheidet sie sich kaum von anderen Branchen. Aber aus zwei Gründen trifft es sie härter: Durch die scharfe Regulierung von Produkten und Unternehmen gab es Markteintrittsbarrieren, durch die technische Innovationen lange nicht in die konservativen Branchen eindrangen. Außerdem sind die sprachlichen und bildlichen Inhalte, mit denen Versicherer zu tun haben, sehr komplex. Dadurch war es schwieriger, sie zu automatisieren, als in der Logistik oder im Online-Handel, wo nur Zahlen verarbeitet werden müssen.</description>
     </item>
     
     <item>
@@ -155,6 +156,16 @@ Künstliche Intelligenz ist auch unter deutschen Versicherern ein Thema, das dis
       <guid>https://cognotektgmbh.github.io/blog/2017/05/20/versichererwollen/</guid>
       <description>(&amp;hellip;)
 Wenn es nach Jobst Landgrebe ginge, müssten die Versicherer noch viel schneller sein. Der Gründer und Inhaber von Cognotekt setzt auf Künstliche Intelligenz als Effizienzbringer. Jahrelang arbeitete der Unternehmer in der Versicherungswirtschaft und erkannte, dass viele Schadenfälle so ähnlich sind, dass sie sich gut automatisieren lassen. Für einen Dienstleister in der Autoversicherung hat er einen Automaten gebaut, der Kostenvoranschlägen oder Rechnungen von Werkstätten ansieht, ob sie beanstandenswert sind. Dafür hat er eine sechsstellige Zahl alter Belege dokumentiert.</description>
+    </item>
+    
+    <item>
+      <title>Virtuelle Versicherungsdetektive</title>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/virtuelleversicherungsdetektive/</link>
+      <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/virtuelleversicherungsdetektive/</guid>
+      <description>(&amp;hellip;)
+Erste Anbieter feilen bereits an einer entsprechenden Technik mit künstlicher Intelligenz. Die Firma Cognotekt aus Köln hat eine Software entwickelt, die auf einem lernenden stochastischen Algorithmus basiert. Gründer Jobst Landgrebe nenntein Beispiel: Ein patient möchte eine Leistung aus einer Krankentagegeldversicherung bekommen. Der intelligente Computer analysiert große Mengen an Daten, etwa die Krankengeschichte, und prüft, wie wahrscheinlich es ist, dass der Versicherte tatsächlich krank ist. Bei unverdächtigen Fällen löst er die Zahlung aus.</description>
     </item>
     
     <item>
@@ -218,6 +229,18 @@ Wenn es nach Jobst Landgrebe ginge, müssten die Versicherer noch viel schneller
       
       <guid>https://cognotektgmbh.github.io/post/second/</guid>
       <description> My second blog post </description>
+    </item>
+    
+    <item>
+      <title>Impressum &amp; Datenschutzrichtlinie</title>
+      <link>https://cognotektgmbh.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/contact/</guid>
+      <description>Impressum Cognotekt GmbH Bonner Str. 209 50968 Köln
+info@cognotekt.com +49221-643065-10
+Geschäftsführender Gesellschafter Dr. Jobst Landgrebe Steuer-Nr: 219/5807/3005 Handelsregister-Nr.: HRB 71466 Amtsgericht Köln
+Datenschutzrichtlinie Bitte beachten Sie, dass auf dieser Webseite „Google Analytics&amp;rdquo; durch „gat._anonymiozelp();&amp;rdquo; ergänzt wird. So soll sichergestellt werden, dass IP Adressen anonymisiert erfasst werden können. (IP Maskierung). Diese Webseite nutzt „Google Analytics&amp;rdquo;, einen Webanalysedienst, der von Google, Inc. („Google&amp;rdquo;) angeboten wird. „Google Analytics&amp;rdquo; nutzt Cookies, die als Textdateien auf Ihrem Computer gespeichert werden und die Webseite dabei unterstützen zu ermitteln, wie Sie die Seite nutzen.</description>
     </item>
     
   </channel>
