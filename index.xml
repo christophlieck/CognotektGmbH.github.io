@@ -2,176 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognotekt-multi.com</title>
-    <link>CognotektGmbH.github.io/</link>
+    <link>https://cognotektgmbh.github.io/</link>
     <description>Recent content on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="CognotektGmbH.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cognotektgmbh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>title</title>
-      <link>CognotektGmbH.github.io/home/title/</link>
+      <link>https://cognotektgmbh.github.io/home/title/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/title/</guid>
+      <guid>https://cognotektgmbh.github.io/home/title/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>wwd</title>
-      <link>CognotektGmbH.github.io/home/wwd/</link>
+      <link>https://cognotektgmbh.github.io/home/wwd/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/wwd/</guid>
+      <guid>https://cognotektgmbh.github.io/home/wwd/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>solutions</title>
-      <link>CognotektGmbH.github.io/home/solutions/</link>
+      <link>https://cognotektgmbh.github.io/home/solutions/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/solutions/</guid>
+      <guid>https://cognotektgmbh.github.io/home/solutions/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>howwework</title>
-      <link>CognotektGmbH.github.io/home/howwework/</link>
+      <link>https://cognotektgmbh.github.io/home/howwework/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/howwework/</guid>
+      <guid>https://cognotektgmbh.github.io/home/howwework/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>hwa</title>
-      <link>CognotektGmbH.github.io/home/hwa/</link>
+      <link>https://cognotektgmbh.github.io/home/hwa/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/hwa/</guid>
+      <guid>https://cognotektgmbh.github.io/home/hwa/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>jobs</title>
-      <link>CognotektGmbH.github.io/home/jobs/</link>
+      <link>https://cognotektgmbh.github.io/home/jobs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/jobs/</guid>
+      <guid>https://cognotektgmbh.github.io/home/jobs/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>CognotektGmbH.github.io/home/blog/</link>
+      <link>https://cognotektgmbh.github.io/home/blog/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/blog/</guid>
+      <guid>https://cognotektgmbh.github.io/home/blog/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
+      <title>Backend-Developer for Cloud-based Services</title>
+      <link>https://cognotektgmbh.github.io/job/backenddeveloperbigdata/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/job/backenddeveloperbigdata/</guid>
+      <description>Cognotekt GmbH is the German market leader in automating and improving repetitive business processes consisting of mental activities. We analyse and reproduce them using mathematics and artificial intelligence. And we’re growing, so we need more colleagues to realise our visions. Offer: Your tasks are the design and development of backends for data-driven services for the optimization and automatisation of business processes. Our components are realized in Go and Python (with a core in C or C++).</description>
+    </item>
+    
+    <item>
+      <title>Entwickler(in) Künstliche Intelligenz</title>
+      <link>https://cognotektgmbh.github.io/job/beraterentwicklerk%C3%BCnstlicheintelligenz/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/job/beraterentwicklerk%C3%BCnstlicheintelligenz/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgaben umfassen die Erstellung von KI-Komponenten zur Automatisierung und Qualitätssteigerung von Geschäftsprozessen. Die Komponenten realisieren durchgehend höhere Mathematik als Software.</description>
+    </item>
+    
+    <item>
+      <title>Linguist/Analyst Künstliche Intelligenz</title>
+      <link>https://cognotektgmbh.github.io/job/linguistanalystk%C3%BCnstlicheintelligenz/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/job/linguistanalystk%C3%BCnstlicheintelligenz/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgabe ist die Systematisierung von Fachanforderungen und die linguistische Analyse von fachsprachlichen Texten als Vorbedingung für die Entwicklung von KI-Systemen in der Wirtschaft.</description>
+    </item>
+    
+    <item>
+      <title>Scrum-Master mit Branchenfokus Gesundheitswesen</title>
+      <link>https://cognotektgmbh.github.io/job/scrum-master/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/job/scrum-master/</guid>
+      <description>Scrum-Master mit Branchenfokus Gesundheitswesen Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgabe besteht darin, in der agilen Softwareentwicklung in mehreren Projekten die Anwendung und Optimierung des Scrum-Vorgehensmodells sicherzustellen, insbesondere auch ein Scrum of Scrums zu etablieren.</description>
+    </item>
+    
+    <item>
+      <title>Systemarchitekt Künstliche Intelligenz (KI)</title>
+      <link>https://cognotektgmbh.github.io/job/systemarchitekt/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/job/systemarchitekt/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Sie konzipieren auf der Grundlage klar strukturierter Anforderungen die Architektur unserer Systeme, die auf der Cloud modular, lose gekoppelt und verteilt sehr komplexe Funktionalität aus dem Bereich der KI abbilden und dadurch ganze Prozessabschnitte unserer Kunden automatisieren.</description>
+    </item>
+    
+    <item>
       <title>Jeder Schadenbearbeiter ist ersetzbar</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/jederschadenbearbeiter/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/jederschadenbearbeiter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/jederschadenbearbeiter/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/jederschadenbearbeiter/</guid>
       <description>Die Versicherungswirtschaft ist in einem unaufhaltsamen digitalen Umbruch. Darin unterscheidet sie sich kaum von anderen Branchen. Aber aus zwei Gründen trifft es sie härter: Durch die scharfe Regulierung von Produkten und Unternehmen gab es Markteintrittsbarrieren, durch die technische Innovationen lange nicht in die konservativen Branchen eindrangen. Außerdem sind die sprachlichen und bildlichen Inhalte, mit denen Versicherer zu tun haben, sehr komplex. Dadurch war es schwieriger, sie zu automatisieren, als in der Logistik oder im Online-Handel, wo nur Zahlen verarbeitet werden müssen.</description>
     </item>
     
     <item>
       <title>Kollege Roboter</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/kollegeroboter/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/kollegeroboter/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/kollegeroboter/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/kollegeroboter/</guid>
       <description>(&amp;hellip;)
 Wie realistisch die Gefahr für die Schreibtischarbeiter schon ist, zeigt das Kölner Unternehmen Cognotekt, das Geschäftsprozesse mit Hilfe künstlicher Intelligenz automatisiert – und damit zahlreiche Arbeitsplätze in Versicherungen wegrationalisiert. Für die Prüfung, ob ein Betrugsversuch vorliegt oder ob die Assekuranz die Schadenssumme möglicherweise senken kann, beschäftigt die deutsche Versicherungsbranche heute Zigtausende Sachbearbeiter. „In zehn Jahren werden höchstens noch 20 Prozent dieser Mitarbeiter benötigt“, sagt Cognotekt-Geschäftsführer Jobst Landgrebe voraus. „Denn Maschinen können mit 99,9 Prozent Genauigkeit die Fälle herausfiltern, die genauer angesehen werden sollten.</description>
     </item>
     
     <item>
       <title>Supercomputer ersetzt in Japan Versicherungsangestellte</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/supercomputerersetzt/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/supercomputerersetzt/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/supercomputerersetzt/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/supercomputerersetzt/</guid>
       <description>(&amp;hellip;)
 Künstliche Intelligenz ist auch unter deutschen Versicherern ein Thema, das diskutiert wird. Die Unternehmensberatung EY Innovalue hat gerade in einer Untersuchung belegt, dass es hier noch eine große Diskrepanz zwischen wahrgenommenen Chancen und der tatsächlichen Veränderungsbereitschaft gebe. 75 Prozent der befragten Unternehmen hielten demnach sowohl eine automatische Schadenprüfung, eine automatische Deckungsprüfung nach einfachen Schäden und eine automatische Prüfung von Gutachten und Rechnungen für eine relevantes Zukunftsthema. Bislang würden diese Themen allerdings in den Unternehmen kontrovers diskutiert.</description>
     </item>
     
     <item>
       <title>Versicherer wollen wie Amazon werden</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/versichererwollen/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/versichererwollen/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/versichererwollen/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/versichererwollen/</guid>
       <description>(&amp;hellip;)
 Wenn es nach Jobst Landgrebe ginge, müssten die Versicherer noch viel schneller sein. Der Gründer und Inhaber von Cognotekt setzt auf Künstliche Intelligenz als Effizienzbringer. Jahrelang arbeitete der Unternehmer in der Versicherungswirtschaft und erkannte, dass viele Schadenfälle so ähnlich sind, dass sie sich gut automatisieren lassen. Für einen Dienstleister in der Autoversicherung hat er einen Automaten gebaut, der Kostenvoranschlägen oder Rechnungen von Werkstätten ansieht, ob sie beanstandenswert sind. Dafür hat er eine sechsstellige Zahl alter Belege dokumentiert.</description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/first/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/first/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/first/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/first/</guid>
       <description>My first blog post Test post first content &amp;hellip;</description>
     </item>
     
     <item>
       <title>second post</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/second/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/second/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/second/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/second/</guid>
       <description>My second blog post Test post second content &amp;hellip;</description>
     </item>
     
     <item>
       <title>third post</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/20/third/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/20/third/</link>
       <pubDate>Sat, 20 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/20/third/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/20/third/</guid>
       <description>My second blog post Test post third content &amp;hellip; bla bla bla</description>
     </item>
     
     <item>
       <title>post1</title>
-      <link>CognotektGmbH.github.io/blog/2017/05/19/post1/</link>
+      <link>https://cognotektgmbh.github.io/blog/2017/05/19/post1/</link>
       <pubDate>Fri, 19 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/blog/2017/05/19/post1/</guid>
+      <guid>https://cognotektgmbh.github.io/blog/2017/05/19/post1/</guid>
       <description>Lorem Ipsum Test post &amp;hellip; bla bla bla</description>
     </item>
     
     <item>
       <title>post1</title>
-      <link>CognotektGmbH.github.io/post/post1/</link>
+      <link>https://cognotektgmbh.github.io/post/post1/</link>
       <pubDate>Fri, 19 May 2017 12:24:34 +0200</pubDate>
       
-      <guid>CognotektGmbH.github.io/post/post1/</guid>
+      <guid>https://cognotektgmbh.github.io/post/post1/</guid>
       <description>Lorem Ipsum Test post &amp;hellip; bla bla bla</description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>CognotektGmbH.github.io/post/first/</link>
+      <link>https://cognotektgmbh.github.io/post/first/</link>
       <pubDate>Mon, 25 Jul 2016 21:04:23 -0500</pubDate>
       
-      <guid>CognotektGmbH.github.io/post/first/</guid>
+      <guid>https://cognotektgmbh.github.io/post/first/</guid>
       <description>My first blog post Test test test test test content</description>
     </item>
     
     <item>
       <title>second post</title>
-      <link>CognotektGmbH.github.io/post/second/</link>
+      <link>https://cognotektgmbh.github.io/post/second/</link>
       <pubDate>Mon, 25 Jul 2016 21:04:23 -0500</pubDate>
       
-      <guid>CognotektGmbH.github.io/post/second/</guid>
+      <guid>https://cognotektgmbh.github.io/post/second/</guid>
       <description> My second blog post </description>
     </item>
     

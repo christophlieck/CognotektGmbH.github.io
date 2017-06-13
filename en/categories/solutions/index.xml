@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solutions on Cognotekt-multi.com</title>
-    <link>CognotektGmbH.github.io/en/categories/solutions/</link>
+    <link>https://cognotektgmbh.github.io/en/categories/solutions/</link>
     <description>Recent content in Solutions on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="CognotektGmbH.github.io/en/categories/solutions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cognotektgmbh.github.io/en/categories/solutions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>solutions.en</title>
-      <link>CognotektGmbH.github.io/en/home/solutions/</link>
+      <link>https://cognotektgmbh.github.io/en/home/solutions/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/en/home/solutions/</guid>
+      <guid>https://cognotektgmbh.github.io/en/home/solutions/</guid>
       <description>Content of the file goes Here</description>
     </item>
     

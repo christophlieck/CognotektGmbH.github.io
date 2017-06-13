@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Cognotekt-multi.com</title>
-    <link>CognotektGmbH.github.io/home/</link>
+    <link>https://cognotektgmbh.github.io/home/</link>
     <description>Recent content in Homes on Cognotekt-multi.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="CognotektGmbH.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cognotektgmbh.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>title</title>
-      <link>CognotektGmbH.github.io/home/title/</link>
+      <link>https://cognotektgmbh.github.io/home/title/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/title/</guid>
+      <guid>https://cognotektgmbh.github.io/home/title/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>wwd</title>
-      <link>CognotektGmbH.github.io/home/wwd/</link>
+      <link>https://cognotektgmbh.github.io/home/wwd/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/wwd/</guid>
+      <guid>https://cognotektgmbh.github.io/home/wwd/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>solutions</title>
-      <link>CognotektGmbH.github.io/home/solutions/</link>
+      <link>https://cognotektgmbh.github.io/home/solutions/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/solutions/</guid>
+      <guid>https://cognotektgmbh.github.io/home/solutions/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>howwework</title>
-      <link>CognotektGmbH.github.io/home/howwework/</link>
+      <link>https://cognotektgmbh.github.io/home/howwework/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/howwework/</guid>
+      <guid>https://cognotektgmbh.github.io/home/howwework/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>hwa</title>
-      <link>CognotektGmbH.github.io/home/hwa/</link>
+      <link>https://cognotektgmbh.github.io/home/hwa/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/hwa/</guid>
+      <guid>https://cognotektgmbh.github.io/home/hwa/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>jobs</title>
-      <link>CognotektGmbH.github.io/home/jobs/</link>
+      <link>https://cognotektgmbh.github.io/home/jobs/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/jobs/</guid>
+      <guid>https://cognotektgmbh.github.io/home/jobs/</guid>
       <description>Content of the file goes Here</description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>CognotektGmbH.github.io/home/blog/</link>
+      <link>https://cognotektgmbh.github.io/home/blog/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>CognotektGmbH.github.io/home/blog/</guid>
+      <guid>https://cognotektgmbh.github.io/home/blog/</guid>
       <description>Content of the file goes Here</description>
     </item>
     

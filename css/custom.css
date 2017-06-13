@@ -11,6 +11,7 @@
 
 .wr-logo-img {
   height: 40px;
+  margin-top: 5px;
 }
 
 .wr-navbar-default {
@@ -19,6 +20,8 @@
 
 .wr-navbar-font {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  text-decoration: none !important;
 }
 
 .wr-header-img {
@@ -26,6 +29,36 @@
   left: 50%;
   transition: tr;
   transform: translateX(-50%);
+}
+
+.wr-fp-h2 {
+  font-family: 'Titillium Web', sans-serif;
+  color: #5a9d43;
+  font-size: 40px;
+  margin-bottom: 60px;
+  font-weight: bold;
+}
+
+.wr-fp-h3 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: #000;
+}
+
+.wr-fp-h4 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  margin-bottom: 30px;
+  font-weight: 600;
+  color: #000;
+}
+
+.wr-fp-p {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+  color: #878787;
 }
 
 .stage {
