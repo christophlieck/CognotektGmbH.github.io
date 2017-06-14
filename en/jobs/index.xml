@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on Cognotekt.com</title>
+    <link>https://cognotektgmbh.github.io/en/jobs/</link>
+    <description>Recent content in Jobs on Cognotekt.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Jun 2017 12:24:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://cognotektgmbh.github.io/en/jobs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backend-Developer for Cloud-based Services</title>
+      <link>https://cognotektgmbh.github.io/en/jobs/2017/06/12/backenddeveloperbigdata/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/en/jobs/2017/06/12/backenddeveloperbigdata/</guid>
+      <description>Cognotekt GmbH is the German market leader in automating and improving repetitive business processes consisting of mental activities. We analyse and reproduce them using mathematics and artificial intelligence. And we’re growing, so we need more colleagues to realise our visions. Offer: Your tasks are the design and development of backends for data-driven services for the optimization and automatisation of business processes. Our components are realized in Go and Python (with a core in C or C++).</description>
+    </item>
+    
+    <item>
+      <title>Entwickler(in) Künstliche Intelligenz</title>
+      <link>https://cognotektgmbh.github.io/en/jobs/2017/06/12/beraterentwicklerk%C3%BCnstlicheintelligenz/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/en/jobs/2017/06/12/beraterentwicklerk%C3%BCnstlicheintelligenz/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgaben umfassen die Erstellung von KI-Komponenten zur Automatisierung und Qualitätssteigerung von Geschäftsprozessen. Die Komponenten realisieren durchgehend höhere Mathematik als Software.</description>
+    </item>
+    
+    <item>
+      <title>Linguist/Analyst Künstliche Intelligenz</title>
+      <link>https://cognotektgmbh.github.io/en/jobs/2017/06/12/linguistanalystk%C3%BCnstlicheintelligenz/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/en/jobs/2017/06/12/linguistanalystk%C3%BCnstlicheintelligenz/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgabe ist die Systematisierung von Fachanforderungen und die linguistische Analyse von fachsprachlichen Texten als Vorbedingung für die Entwicklung von KI-Systemen in der Wirtschaft.</description>
+    </item>
+    
+    <item>
+      <title>Scrum-Master mit Branchenfokus Gesundheitswesen</title>
+      <link>https://cognotektgmbh.github.io/en/jobs/2017/06/12/scrum-master/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/en/jobs/2017/06/12/scrum-master/</guid>
+      <description>Scrum-Master mit Branchenfokus Gesundheitswesen Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Ihre Aufgabe besteht darin, in der agilen Softwareentwicklung in mehreren Projekten die Anwendung und Optimierung des Scrum-Vorgehensmodells sicherzustellen, insbesondere auch ein Scrum of Scrums zu etablieren.</description>
+    </item>
+    
+    <item>
+      <title>Systemarchitekt Künstliche Intelligenz (KI)</title>
+      <link>https://cognotektgmbh.github.io/en/jobs/2017/06/12/systemarchitekt/</link>
+      <pubDate>Mon, 12 Jun 2017 12:24:34 +0200</pubDate>
+      
+      <guid>https://cognotektgmbh.github.io/en/jobs/2017/06/12/systemarchitekt/</guid>
+      <description>Cognotekt GmbH ist eine auf die Automatisierung und Qualitätssteigerung von Geschäftsprozessen spezialisierte Software- und Beratungsfirma. Wir rationalisieren Prozesse, die aus repetitiven, einfachen geistigen Tätigkeiten bestehen, indem wir die Prozesse analysieren und die Schritte, die durch Algorithmen abbildbar sind, automatisieren oder durch den Einsatz von Mathematik qualitativ verbessern. Damit sind wir am deutschen Markt führend. Stellenbeschreibung: Sie konzipieren auf der Grundlage klar strukturierter Anforderungen die Architektur unserer Systeme, die auf der Cloud modular, lose gekoppelt und verteilt sehr komplexe Funktionalität aus dem Bereich der KI abbilden und dadurch ganze Prozessabschnitte unserer Kunden automatisieren.</description>
+    </item>
+    
+  </channel>
+</rss>
