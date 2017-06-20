@@ -171,3 +171,7 @@ div.section {
 .embed-container.ratio4x3 {
   padding-bottom: 75%;
 }
+
+.post-title {
+  margin-top: 100px;
+}
