@@ -175,3 +175,41 @@ div.section {
 .post-title {
   margin-top: 100px;
 }
+
+/* flag sprites */
+
+li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  font-family: arial;
+  font-weight: bold;
+  color: #666;
+}
+.flag {
+  background-image: url('https://s21.postimg.org/wt3cftb5j/flags.jpg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 20px;
+  width: 64px;
+  height: 64px;
+}
+.fr {
+  background-position: -192px 0;
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+
+.job-tile {
+  padding: 25px;
+  border: 2px solid #f4f8f9;
+  background-color: #f4f8f9;
+}

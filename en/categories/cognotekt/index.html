@@ -18,7 +18,7 @@
   <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
 
   
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
   
@@ -29,11 +29,15 @@
     <link href="https://cognotektgmbh.github.io//css/style.default.css" rel="stylesheet" id="theme-stylesheet">
   
 
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
   
   <link href="https://cognotektgmbh.github.io//css/custom.css" rel="stylesheet">
-  <link href="https://cognotektgmbh.github.io//css/font-awesome.css" rel="stylesheet">
   <link href="https://cognotektgmbh.github.io//css/languages.min.css" rel="stylesheet">
+  <link href="https://cognotektgmbh.github.io//css/flags.min.css" rel="stylesheet">
+  
+  
 
   
   <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
@@ -74,13 +78,16 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="https://cognotektgmbh.github.io/">
-                    <img src="https://cognotektgmbh.github.io//img/index/logoCognotekt.png" alt="Cognotekt logo" class="hidden-xs hidden-sm wr-logo-img">
-                    <img src="https://cognotektgmbh.github.io//img/index/logoCognotekt.png" alt="Cognotekt logo" class="visible-xs visible-sm wr-logo-img">
+                    <img src="https://cognotektgmbh.github.io//img/index/logoCognotekt.png" alt="Cognotekt logo"
+                         class="hidden-xs hidden-sm wr-logo-img">
+                    <img src="https://cognotektgmbh.github.io//img/index/logoCognotekt.png" alt="Cognotekt logo"
+                         class="visible-xs visible-sm wr-logo-img">
                     <span class="sr-only">Cognotekt - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
-                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
-                      <span class="sr-only">Toggle Navigation</span>
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse"
+                            data-target="#navigation">
+                        <span class="sr-only">Toggle Navigation</span>
                         <i class="fa fa-align-justify"></i>
                     </button>
                 </div>
@@ -89,44 +96,53 @@
 
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
-                  
-                  <li class="dropdown">
                     
-                    <a class="wr-navbar-font" href="/en/#whatwedo">What we do</a>
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/en/#whatwedo">What we do</a>
+                        
+                    </li>
                     
-                  </li>
-                  
-                  <li class="dropdown">
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/en/#howwework">How we work</a>
+                        
+                    </li>
                     
-                    <a class="wr-navbar-font" href="/en/#howwework">How we work</a>
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/en/#hwa">Who we are</a>
+                        
+                    </li>
                     
-                  </li>
-                  
-                  <li class="dropdown">
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/en/#jobs">Who we are looking for</a>
+                        
+                    </li>
                     
-                    <a class="wr-navbar-font" href="/en/#hwa">Who we are</a>
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/en/#blog">In the News</a>
+                        
+                    </li>
                     
-                  </li>
-                  
-                  <li class="dropdown">
+                    <li class="dropdown">
+                        
+                        <a class="wr-navbar-font" href="/">German</a>
+                        
+                    </li>
                     
-                    <a class="wr-navbar-font" href="/en/#jobs">Who we are looking for</a>
-                    
-                  </li>
-                  
-                  <li class="dropdown">
-                    
-                    <a class="wr-navbar-font" href="/en/#blog">In the News</a>
-                    
-                  </li>
-                  
-                  <li class="dropdown">
-                    
-                    <a class="wr-navbar-font" href="/">German</a>
-                    
-                  </li>
-                  
                 </ul>
+                
+                    
+                    
+                
+
+                
+                    
+                    
+                
             </div>
             
 
@@ -153,6 +169,25 @@
 </div>
 
 
+
+<script>
+    $(document).ready(function () {
+        console.log('Test');
+        $('.flag').click(function() {
+            if (window.location.href = '/en') {
+                $('#flag-de').click(function () {
+                    window.location.href = '/';
+                    this.addClass('hide').removeClass('show');
+                });
+            } else if (window.location.href = '/') {
+                $('#flag-us').click(function () {
+                    window.location.href = '/en';
+                    this.addClass('hide').removeClass('show');
+                });
+            }
+        });
+    });
+</script>
 
 
         </header>
@@ -293,6 +328,10 @@
 
 
 <script src="https://cognotektgmbh.github.io//js/owl.carousel.min.js"></script>
+
+<script src="https://cognotektgmbh.github.io//js/anime.min.js"></script>
+<script src="https://cognotektgmbh.github.io//js/main.js"></script>
+
 
 
   </body>
