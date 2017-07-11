@@ -122,25 +122,25 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/arbeiten/</loc>
-    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://cognotektgmbh.github.io/tags/arbeiten/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/blog/</loc>
-    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <loc>https://cognotektgmbh.github.io/categories/arbeiten/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cognotektgmbh.github.io/tags/blog/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cognotektgmbh.github.io/categories/blog/</loc>
     <lastmod>2017-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -158,13 +158,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/cognotekt/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/cognotekt/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/cognotekt/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/cognotekt/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -186,13 +186,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/jobs/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/jobs/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/jobs/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/jobs/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -204,13 +204,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/l%C3%B6sungen/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/l%C3%B6sungen/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/l%C3%B6sungen/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/l%C3%B6sungen/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -234,13 +234,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/title/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/title/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/title/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/title/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -258,13 +258,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/what-we-do/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/what-we-do/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/what-we-do/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/what-we-do/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -276,13 +276,13 @@
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/categories/wir/</loc>
+    <loc>https://cognotektgmbh.github.io/tags/wir/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cognotektgmbh.github.io/tags/wir/</loc>
+    <loc>https://cognotektgmbh.github.io/categories/wir/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
