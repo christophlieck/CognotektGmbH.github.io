@@ -38,8 +38,8 @@
   <link href="https://cognotektgmbh.github.io//css/custom.css" rel="stylesheet">
   <link href="https://cognotektgmbh.github.io//css/languages.min.css" rel="stylesheet">
   <link href="https://cognotektgmbh.github.io//css/flags.min.css" rel="stylesheet">
-  
-  
+  <link href="https://cognotektgmbh.github.io//css/demo.css" rel="stylesheet">
+  <link href="https://cognotektgmbh.github.io//css/normalize.css" rel="stylesheet">
 
   
   <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
@@ -129,30 +129,8 @@
                         
                     </li>
                     
-                    <div class="btn-group" style="margin-top: 14px;">
-                        <button type="button" class="btn btn-default btn-lg" style="height: 40px;">
-                            <img id="imgBtnDeu" src="http://www.roemheld.de/IT/Data/Images/Address/Deutschland.gif" alt="..." class="img-thumbnail icon-medium">  
-                            <span id="imgBtnDeu">DEU</span></button>
-                        <button type="button" class="btn btn-default btn-lg dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                            <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu" role="menu">
-                            <li><a id="btnDeu" href="/" class="language" style="margin-top: 15px;"> <img id="imgBtnDeu" src="http://www.roemheld.de/IT/Data/Images/Address/Deutschland.gif" alt="..." class="img-thumbnail icon-small">  <span id="lanBtnDeu">Deutsch</span></a></li>
-                            <li><a id="btnEng" href="/en" class="language"><img id="imgBtnEng" src="http://www.roemheld.de/IT/Data/Images/Address/Grossbritanien.gif" alt="..." class="img-thumbnail icon-small">  <span id="lanBtnEng">English</span></a></li>
-                        </ul>
-                    </div>
+                     <li><a href="/en"><img id="imgBtnEng" src="http://www.roemheld.de/IT/Data/Images/Address/Grossbritanien.gif" alt="..." class="img-thumbnail icon-small"></a></li> 
                 </ul>
-
-
-                
-                    
-                    
-                
-
-                
-                    
-                    
-                
             </div>
             
 
@@ -373,9 +351,42 @@ We’re looking forward to working with you!</p>
 
 
 <script src="https://cognotektgmbh.github.io//js/owl.carousel.min.js"></script>
-
 <script src="https://cognotektgmbh.github.io//js/anime.min.js"></script>
 <script src="https://cognotektgmbh.github.io//js/main.js"></script>
+<script>
+    (function() {
+        [].slice.call(document.querySelectorAll('.grid--effect-vega > .grid__item')).forEach(function(stackEl) {
+            new VegaFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-castor > .grid__item')).forEach(function(stackEl) {
+            new CastorFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-hamal > .grid__item')).forEach(function(stackEl) {
+            new HamalFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-polaris > .grid__item')).forEach(function(stackEl) {
+            new PolarisFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-alphard > .grid__item')).forEach(function(stackEl) {
+            new AlphardFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-altair > .grid__item')).forEach(function(stackEl) {
+            new AltairFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-rigel > .grid__item')).forEach(function(stackEl) {
+            new RigelFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-canopus > .grid__item')).forEach(function(stackEl) {
+            new CanopusFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-pollux > .grid__item')).forEach(function(stackEl) {
+            new PolluxFx(stackEl);
+        });
+        [].slice.call(document.querySelectorAll('.grid--effect-deneb > .grid__item')).forEach(function(stackEl) {
+            new DenebFx(stackEl);
+        });
+    })();
+</script>
 
 
 
